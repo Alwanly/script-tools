@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+
+# macOS
+.DS_Store
+
+# mitmproxy cache
+.mitmproxy/
+
+
+# Environment variables
+.env
+*secret*
